@@ -465,7 +465,7 @@ const getWatchHistory = asyncHandler(async(req, res) => {
     loginUser,
     logoutUser,
     refreshAccessToken,
-     changeCurrentPassword,
+    changeCurrentPassword,
     getCurrentUser,
     updateAccountDetails,
     updateUserAvatar,
